@@ -18,7 +18,7 @@
 
 - ⚡ Curiosidade:
   
-  Dentro da área da tecnologia/Robótica realizei dois principais projetos na faculdade:
+  ### Dentro da área da tecnologia/Robótica realizei dois principais projetos na faculdade:
   
 🛠 Máquina CNC : programada atraves de um Arduino Uno + Placa CNC, programada em C, desenvolvi a parte eletronica/hardware e software do projeto.
 
@@ -29,12 +29,19 @@
 ⚙ Tecnologias do projeto: Servomotores, placas microcontroladoras, sensor de cor e programa .ino. 
 
 
-Tecnologias Desenvolvidas: 
+## Tecnologias e Ferramentas: 
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
 
-Aprendendo: 
 
+## Ambientes: 
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+
+
+## Aprendendo: 
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 <div>
 <a href="https://github.com/GabrielSbarbosa">
