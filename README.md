@@ -3,8 +3,8 @@
 
 
 - 🔭 Atualmente estou trabalhando como Suporte Técnico Computacional, analisando logs, corrigindo bugs e analisando problemas de aparelhos eletrônicos. 
-- 🌱 Atualmente sou formado em Mecatrônica pela FATEC e estou cursando Analise e desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor frontEnd ou BackEnd. 
-- 👯 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS) e análise de dados como Python, MySql. 
+- 🌱 Atualmente sou formado em Mecatrônica pela FATEC e estou cursando Analise e desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
+- 👯 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS), análise de dados como Python, MySql, entre outras. 
 - 💬 Gosto de receber sugestões de novos projetos e desafios, por causa disso, criei esse repositorio para anexar meus projetos e códigos abertos. 
 - 📫 Contatos:
 
@@ -21,11 +21,11 @@
   
 🛠 Máquina CNC : programada através de um arduino Uno + Placa CNC, programada em C, desenvolvi a parte eletrônica/hardware e software do projeto.
 
-⚙ Tecnologias do projeto: motores, placas microcontroladoras, progroma .ino. 
+⚙ Tecnologias do projeto: motores, placas microcontroladoras, progromação em C. 
 
 🛠 Braço Robótico : um processo para separação de peças, através de suas cores. 
 
-⚙ Tecnologias do projeto: servomotores, placas microcontroladoras, sensor de cor e programa .ino. 
+⚙ Tecnologias do projeto: servomotores, placas microcontroladoras, sensor de cor e programação em C. 
 
 
 ## Tecnologias e Ferramentas: 
