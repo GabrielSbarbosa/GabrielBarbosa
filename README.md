@@ -3,10 +3,10 @@
 
 
 - 🔭 Atualmente estou trabalhando como Suporte Técnico Computacional, analisando logs, corrigindo bugs e analisando problemas de aparelhos eletrônicos. 
-- 🌱 Atualmente sou formado em Mecatronica pela FATEC e estou cursando Analise e desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor frontEnd ou BackEnd. 
+- 🌱 Atualmente sou formado em Mecatrônica pela FATEC e estou cursando Analise e desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor frontEnd ou BackEnd. 
 - 👯 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS) e análise de dados como Python, MySql. 
 - 💬 Gosto de receber sugestões de novos projetos e desafios, por causa disso, criei esse repositorio para anexar meus projetos e códigos abertos. 
-- 📫 Como entrar em contato comigo:
+- 📫 Contatos:
 
 <div>
   
