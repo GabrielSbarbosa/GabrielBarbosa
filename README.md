@@ -19,10 +19,14 @@
 - ⚡ Curiosidade:
   
   Dentro da área da tecnologia/Robótica realizei dois principais projetos na faculdade:
-. Máquina CNC : programada atraves de um Arduino Uno + Placa CNC, programada em C, desenvolvi a parte eletronica/hardware e software do projeto.
-. Tecnologias do projeto: Motores, placas microcontroladoras, progroma .ino. 
-. Braço Robotico : um processo para separação de peças, atraves de suas cores. 
-. Tecnologias do projeto: Servomotores, placas microcontroladoras, sensor de cor e programa .ino. 
+  
+🛠 Máquina CNC : programada atraves de um Arduino Uno + Placa CNC, programada em C, desenvolvi a parte eletronica/hardware e software do projeto.
+
+⚙ Tecnologias do projeto: Motores, placas microcontroladoras, progroma .ino. 
+
+🛠 Braço Robotico : um processo para separação de peças, atraves de suas cores. 
+
+⚙ Tecnologias do projeto: Servomotores, placas microcontroladoras, sensor de cor e programa .ino. 
 
 
 Tecnologias Desenvolvidas: 
