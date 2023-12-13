@@ -7,7 +7,8 @@
 - 👯 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS) e análise de dados como Python, MySql. 
 - 💬 Gosto de receber sugestões de novos projetos e desafios, por causa disso, criei esse repositorio para anexar meus projetos e códigos abertos. 
 - 📫 Como entrar em contato comigo:
-- <div>
+
+<div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -15,10 +16,16 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade:
+  Dentro da área da tecnologia/Robótica realizei dois principais projetos na faculdade
+- Máquina CNC : programada atraves de um Arduino Uno + Placa CNC, programada em C, desenvolvi a parte eletronica/hardware e software do projeto.
+- Tecnologias do projeto: Motores, placas microcontroladoras, progroma .ino. 
+- Braço Robotico : um processo para separação de peças, atraves de suas cores. 
+- Tecnologias do projeto: Servomotores, placas microcontroladoras, sensor de cor e programa .ino. 
 
 
 Tecnologias Desenvolvidas: 
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 Aprendendo: 
