@@ -17,7 +17,7 @@
 
 - ⚡ Curiosidade:
   
-  ### Dentro da área da tecnologia/Robótica realizei dois principais projetos na faculdade:
+  ### Dentro da área da Tecnologia/Robótica realizei dois principais projetos na faculdade:
   
 🛠 Máquina CNC : programada através de um arduino Uno + Placa CNC, programada em C, desenvolvi a parte eletrônica/hardware e software do projeto.
 
