@@ -1,4 +1,4 @@
-# Olá, me chamo Gabriel ! 
+# Olá, me chamo Gabriel! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 <a href="https://ibb.co/88Zrd79"><img src="https://i.ibb.co/88Zrd79/octocat-1702497731955.png" alt="octocat-1702497731955" border="0" align="right" > </a>
