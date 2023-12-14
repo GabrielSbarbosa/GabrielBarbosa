@@ -1,7 +1,7 @@
 # Olá, me chamo Gabriel ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<a href="https://ibb.co/88Zrd79"><img src="https://i.ibb.co/88Zrd79/octocat-1702497731955.png" alt="octocat-1702497731955" border="0" > </a>
+<a href="https://ibb.co/88Zrd79"><img src="https://i.ibb.co/88Zrd79/octocat-1702497731955.png" alt="octocat-1702497731955" border="0" align="left" > </a>
 
 - 🔭 Atualmente estou trabalhando como Suporte Técnico Computacional, analisando logs, corrigindo bugs e analisando problemas de aparelhos eletrônicos. 
 - 🌱 Atualmente sou formado em Mecatrônica pela FATEC e estou cursando Analise e desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
