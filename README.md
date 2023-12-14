@@ -4,7 +4,7 @@
 <a href="https://ibb.co/88Zrd79"><img src="https://i.ibb.co/88Zrd79/octocat-1702497731955.png" alt="octocat-1702497731955" border="0" align="right" > </a>
 
 - 🔭 Atualmente estou trabalhando como Suporte Técnico Computacional, analisando logs, corrigindo bugs e analisando problemas de aparelhos eletrônicos. 
-- 🌱 Atualmente sou formado em Mecatrônica pela FATEC e estou cursando Analise e desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
+- 🌱 Sou formado em Mecatrônica pela FATEC e estou cursando Análise e Desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
 - 👯 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS), análise de dados como Python, MySql, entre outras. 
 - 💬 Gosto de receber sugestões de novos projetos e desafios, por causa disso, criei esse repositorio para anexar meus projetos e códigos abertos. 
 - 📫 Contatos:
