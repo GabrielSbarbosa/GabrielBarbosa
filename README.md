@@ -45,6 +45,7 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
 
+<a href="https://ibb.co/tsXDpLQ"><img src="https://i.ibb.co/d2gD4mj/windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview.jpg" alt="windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview" border="0" width="150" height="150" align="right"></a>
 
 <div>
 <a href="https://github.com/GabrielSbarbosa">
