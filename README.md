@@ -25,6 +25,8 @@
 
 ⚙ Tecnologias do projeto: motores, placas microcontroladoras, progromação em C. 
 
+Link do projeto: https://www.linkedin.com/posts/gabriel-barbosa-link_projeto-de-uma-mesa-coordenada-cnc-utilizando-activity-6853353349518045184-Au41?utm_source=share&utm_medium=member_desktop
+
 🛠 Braço Robótico : um processo para separação de peças, através de suas cores. 
 
 ⚙ Tecnologias do projeto: servomotores, placas microcontroladoras, sensor de cor e programação em C. 
