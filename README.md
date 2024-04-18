@@ -31,6 +31,8 @@ Link do projeto: [Mesa CNC](https://www.linkedin.com/posts/gabriel-barbosa-link_
 
 ⚙ Tecnologias do projeto: servomotores, placas microcontroladoras, sensor de cor e programação em C. 
 
+Link do projeto : [Braço Robótico](https://youtu.be/Inv-DU7WCAg?si=1cJe2RQBjllCHrvA)
+
 
 ## Tecnologias e Ferramentas: 
 
