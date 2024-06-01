@@ -1,7 +1,6 @@
 # Olá, me chamo Gabriel! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<a href="https://ibb.co/88Zrd79"><img src="https://i.ibb.co/88Zrd79/octocat-1702497731955.png" alt="octocat-1702497731955" border="0" align="right" > </a>
 
 ![Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&theme=dracula)
 ![Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&theme=blue-green)
