@@ -3,6 +3,8 @@
 
 <a href="https://ibb.co/88Zrd79"><img src="https://i.ibb.co/88Zrd79/octocat-1702497731955.png" alt="octocat-1702497731955" border="0" align="right" > </a>
 
+![Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&theme=dracula)  ![Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&theme=blue-green)
+
 - 🔭 Atualmente estou trabalhando como Suporte Técnico Computacional, analisando logs, corrigindo bugs e analisando problemas de aparelhos eletrônicos. 
 - 🌱 Sou formado em Mecatrônica pela FATEC e estou cursando Análise e Desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
 - 👯 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS), análise de dados como Python, MySql, entre outras. 
@@ -51,10 +53,8 @@ Link do projeto : [Braço Robótico](https://youtu.be/Inv-DU7WCAg?si=1cJe2RQBjll
 
 <a href="https://ibb.co/tsXDpLQ"><img src="https://i.ibb.co/d2gD4mj/windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview.jpg" alt="windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview" border="0" width="150" height="150" align="right"></a>
 
-<div>
-<a href="https://github.com/GabrielSbarbosa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+
 
 
 
