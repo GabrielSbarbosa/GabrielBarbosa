@@ -3,7 +3,8 @@
 
 <a href="https://ibb.co/88Zrd79"><img src="https://i.ibb.co/88Zrd79/octocat-1702497731955.png" alt="octocat-1702497731955" border="0" align="right" > </a>
 
-![Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&theme=dracula)  ![Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&theme=blue-green)
+![Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&theme=dracula)
+![Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&theme=blue-green)
 
 - 🔭 Atualmente estou trabalhando como Suporte Técnico Computacional, analisando logs, corrigindo bugs e analisando problemas de aparelhos eletrônicos. 
 - 🌱 Sou formado em Mecatrônica pela FATEC e estou cursando Análise e Desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
