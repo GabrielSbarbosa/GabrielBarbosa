@@ -23,15 +23,15 @@
   
   ### Dentro da área da Tecnologia/Robótica realizei dois principais projetos na faculdade:
   
-🛠 Máquina CNC : programada através de um arduino Uno + Placa CNC, programada em C, desenvolvi a parte eletrônica/hardware e software do projeto.
+🛠 Máquina CNC : programada através de um arduino UNO + placa CNC,programada em C,desenvolvi a parte eletrônica/hardware e software do projeto.
 
-⚙ Tecnologias do projeto: motores, placas microcontroladoras, progromação em C. 
+⚙ Tecnologias do projeto: motores,placas micro-controladoras,programação em C. 
 
 Link do projeto: [Mesa CNC](https://www.linkedin.com/posts/gabriel-barbosa-link_projeto-de-uma-mesa-coordenada-cnc-utilizando-activity-6853353349518045184-Au41?utm_source=share&utm_medium=member_desktop)
 
 🛠 Braço Robótico: um processo para separação de peças, através de suas cores. 
 
-⚙ Tecnologias do projeto: servomotores, placas microcontroladoras, sensor de cor e programação em C. 
+⚙ Tecnologias do projeto: servomotores,placas micro-controladoras,sensor de cor e programação em C. 
 
 Link do projeto : [Braço Robótico](https://youtu.be/Inv-DU7WCAg?si=1cJe2RQBjllCHrvA)
 
