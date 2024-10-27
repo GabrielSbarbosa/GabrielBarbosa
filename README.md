@@ -4,7 +4,6 @@
 
 ![Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&theme=dracula)
 ![Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&layout=compact)
 
 - 💻 Atualmente estou trabalhando como Analista de Suporte Pleno. 
 - 📚 Sou formado em Mecatrônica pela FATEC e estou cursando Análise e Desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
