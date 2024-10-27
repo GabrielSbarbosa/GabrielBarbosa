@@ -5,9 +5,9 @@
 ![Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&theme=dracula)
 ![Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&theme=blue-green)
 
-- 🔭 Atualmente estou trabalhando como Suporte Técnico Computacional, analisando logs, corrigindo bugs e analisando problemas de aparelhos eletrônicos. 
-- 🌱 Sou formado em Mecatrônica pela FATEC e estou cursando Análise e Desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
-- 👯 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS), análise de dados como Python, MySql, entre outras. 
+- 💻 Atualmente estou trabalhando como Analista de Suporte Pleno. 
+- 📚 Sou formado em Mecatrônica pela FATEC e estou cursando Análise e Desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
+- 💡 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS), análise de dados como Python, MySql, entre outras. 
 - 💬 Gosto de receber sugestões de novos projetos e desafios, por causa disso, criei esse repositório para anexar meus projetos e códigos abertos. 
 - 📫 Contatos:
 
